@@ -144,7 +144,7 @@ This prints the data directly to stdout and we can see the whole dataset.
 Nice. 
 
 > Let's save the output of the `curl` command to a file called `data.txt`. How
-would we do that?
+would we do that? - ">" and name the file
 
 Now that we have the data file, let's learn how to manipulate files.
 
@@ -191,7 +191,7 @@ We can get even fancier by adding a second flag
 ls -lh
 ```
 
-> What changed?
+> What changed? each file added B (shows in bytes)
 
 If instead copying we just want to change the name of a file, we can do:
 
